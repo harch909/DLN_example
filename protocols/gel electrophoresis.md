@@ -10,3 +10,9 @@ This is a marksown file describing how to do the gel elctrophoresis.
 1. buffer
 1. DNA
 1. dye
+
+## what to do
+
+## results
+
+After you've followed these instructionsm you should get something like [this](image21793.png)
