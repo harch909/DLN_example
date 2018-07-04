@@ -15,4 +15,4 @@ This is a marksown file describing how to do the gel elctrophoresis.
 
 ## results
 
-After you've followed these instructionsm you should get something like [this](DLN_example/image21793.png)
+After you've followed these instructions you should get something like [this](image21793.png)
