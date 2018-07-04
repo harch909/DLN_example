@@ -5,3 +5,4 @@ Demonstration of Digital Notebook - ResBaz Dunedin
 
 ![you're a wizard](image21793.png)
 
+<img src="image21793.png" width=100/>
